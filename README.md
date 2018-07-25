@@ -1,12 +1,6 @@
 **Estação BGA OpenHS**
 
-![](media/00a17018fe1652d23d2dd3c06a372204.png)
-
-![](media/69f165f00d0b74b32be35682c973a979.png)
-
-![](media/098564dae544d9499694db61b0bfdfc6.png)
-
-
+![](https://eletronicabr.com/uploads/monthly_2018_07/1684315391_estao_bga_2.png.8951444dd488c4504e519dd511489e30.png)
 
 A estação BGA OpenHS é um protótipo de hardware e software aberto de uma
 **Estação de Retrabalho BGA**, máquina que auxilia na remoção de chips com
@@ -15,7 +9,7 @@ eletrônicos atuais.
 
 **O que é BGA?**
 
-![](media/92103f722619a7e78c02015e0cfbac82.jpg)
+![](https://www.geek.com/wp-content/uploads/2010/01/NVIDIA_Tegra_250_3qtr_large.jpg)
 
 *Ball Grid Array* (**BGA**) é um tipo de encapsulamento que utiliza esfera de
 soldas organizadas em grade, dispensando pinos presentes em outros tipos de
