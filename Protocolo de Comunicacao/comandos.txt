@@ -1,0 +1,8 @@
+@aquecedor>20%<LF><CR>
+@ventoinha>20%<LF><CR>
+@atualizacao_serial>200;<LF><CR>
+@atualizacao_termopar>200;<LF><CR>
+@perido_cpt>200;<LF><CR>
+@desligar><LF><CR>
+@serial_on><LF><CR>
+@erial_off><LF><CR>

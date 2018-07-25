@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "supervisorio3", "supervisorio3\supervisorio3.csproj", "{BA3E99C5-57DC-47C0-86D7-B4C40361DC78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{857EBEDB-AC57-40A0-834A-C09057DC452A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3E99C5-57DC-47C0-86D7-B4C40361DC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3E99C5-57DC-47C0-86D7-B4C40361DC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3E99C5-57DC-47C0-86D7-B4C40361DC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3E99C5-57DC-47C0-86D7-B4C40361DC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E40889-5594-4723-9E39-E1085A397889}
+	EndGlobalSection
+EndGlobal
