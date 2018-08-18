@@ -644,6 +644,9 @@ namespace supervisorio3
             ObjGrafico.AdicionarPontosXYSeries(tempoX, temporario);
         }
 
-        
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("André");
+        }
     }
 }

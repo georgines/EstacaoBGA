@@ -6,7 +6,7 @@
 
 Executa processo1;
 void setup() {
-	Ui.abreConexao(&Serial);
+  Ui.abreConexao(&Serial);
 	pinMode(LED, OUTPUT);
 	Ui.enviaValorSaidaDigital(estadoBotao[BOTAO1], ENDERECO_1);
 	Ui.enviaValorSaidaDigital(estadoBotao[BOTAO2], ENDERECO_2);
@@ -22,16 +22,9 @@ void enviarGrafico(){
 }
 
 void (*resetFunc)(void) = 0;
+
 void loop() {
 	AguardaDadosSerial();
-	processo1.aCadaMillisegundo(enviarGrafico, 500);
-	if(reset_micro){
-		Serial.println("Reset");
-		delay(500);
-		resetFunc();
-		reset_micro = false;
-	}
-
-
+	processo1.aCadaMillisegundo(enviarGrafico, 500);	
 }
 

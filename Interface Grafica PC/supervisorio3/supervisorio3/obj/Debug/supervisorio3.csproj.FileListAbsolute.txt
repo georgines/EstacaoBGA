@@ -15,3 +15,20 @@ C:\Users\Usuario\source\repos\supervisorio3\supervisorio3\bin\Debug\EntityFramew
 C:\Users\Usuario\source\repos\supervisorio3\supervisorio3\obj\Debug\supervisorio3.csproj.CopyComplete
 C:\Users\Usuario\source\repos\supervisorio3\supervisorio3\obj\Debug\supervisorio3.UserControl1.resources
 C:\Users\Usuario\source\repos\supervisorio3\supervisorio3\obj\Debug\supervisorio3.csprojAssemblyReference.cache
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\supervisorio3.exe.config
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\supervisorio3.exe
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\supervisorio3.pdb
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\EntityFramework.dll
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\EntityFramework.xml
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.csprojAssemblyReference.cache
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.Form1.resources
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.FormularioPrincipal.resources
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.Properties.Resources.resources
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.UserControl1.resources
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.csproj.GenerateResource.cache
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.csproj.CoreCompileInputs.cache
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.csproj.CopyComplete
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.exe
+C:\Users\Georgines\Documents\EstacaoBGA\Interface Grafica PC\supervisorio3\supervisorio3\obj\Debug\supervisorio3.pdb
